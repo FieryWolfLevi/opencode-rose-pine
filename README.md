@@ -18,15 +18,3 @@
 ## Thanks to
 
 - [FieryWolfLevi](https://github.com/fierywolflevi)
-
-## Contributing
-
-<!-- BLOOM_BUILD_START -->
-
-This theme was built using [bloom](https://github.com/rose-pine/rose-pine-bloom):
-
-```sh
-bloom build template.yaml --output dist --prefix $ --format hex
-```
-
-<!-- BLOOM_BUILD_END -->
